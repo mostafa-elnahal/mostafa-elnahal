@@ -1,12 +1,18 @@
 <div align="center">
 
 # Mostafa Elnahal
-**Full-Stack Software Engineer (.NET / React)**<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;.NET+%7C+React+%7C+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
+
+<br/>
+
 *Building scalable APIs and intuitive UIs. Focused on clean architecture, performance, and shipping.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-elnahal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mostafa.salim.egy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mostafa-elnahal)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-elnahal)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.salim.egy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafa-elnahal)
 
 </div>
 
@@ -37,10 +43,12 @@ Full-stack developer building end-to-end web applications with a variety of tech
 
 ## 📊 GitHub Activity
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mostafa-elnahal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-elnahal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostafa-elnahal&theme=github_dark" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa-elnahal&theme=github_dark" alt="Top Languages" />
 <br/>
 <img height="170" src="https://streak-stats.demolab.com/?user=mostafa-elnahal&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<br/>
+<img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-elnahal&theme=github_dark" alt="Contribution Graph" />
 
 </div>
 
