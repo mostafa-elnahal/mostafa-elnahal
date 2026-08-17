@@ -45,10 +45,6 @@ Full-stack developer building end-to-end web applications with a variety of tech
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostafa-elnahal&theme=github_dark" alt="GitHub Stats" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa-elnahal&theme=github_dark" alt="Top Languages" />
-<br/>
-<img height="170" src="https://streak-stats.demolab.com/?user=mostafa-elnahal&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
-<br/>
-<img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafa-elnahal&theme=github_dark" alt="Contribution Graph" />
 
 </div>
 
